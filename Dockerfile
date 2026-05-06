@@ -1,0 +1,1 @@
+FROM tiredofit/osticket:latest
